@@ -30,7 +30,7 @@ A super simple FastAPI application that allows students to view and sign up for 
 From the project root, run:
 
 ```bash
-python -m pytest test/ -q
+python -m pytest tests/ -q
 ```
 
 ## API Endpoints
